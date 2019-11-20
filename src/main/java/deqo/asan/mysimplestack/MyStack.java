@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.EmptyStackException;
 import java.util.Stack;
 
+/* commentaire concernant l'exigence #3*/
 public class MyStack {
     private Stack<Item> stack;
 

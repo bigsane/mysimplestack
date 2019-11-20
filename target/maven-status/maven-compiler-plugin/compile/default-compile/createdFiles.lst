@@ -1,1 +1,4 @@
 deqo/asan/mysimplestack/App.class
+deqo/asan/mysimplestack/Item.class
+deqo/asan/mysimplestack/MyStack.class
+deqo/asan/mysimplestack/SimpleStack.class
